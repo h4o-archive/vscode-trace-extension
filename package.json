@@ -79,7 +79,6 @@
 	"scripts": {
 		"vscode:prepublish": "yarn build",
 		"build": "rimraf build && yarn build:extension && yarn build:react",
-		"watch": "yarn watch:extension",
 		"build:extension": "tsc -p tsconfig.extension.json",
 		"lint:extension": "eslint extension/src --ext ts",
 		"watch:extension": "tsc -watch -p tsconfig.extension.json",
