@@ -184,7 +184,7 @@
 		"@pixi/unsafe-eval": "^5.3.3",
 		"ag-grid-community": "^23.2.1",
 		"ag-grid-react": "^23.2.1",
-		"chart.js": "^2.8.0",
+		"chart.js": "^2.9.4",
 		"react": "^16.13.1",
 		"react-chartjs-2": "^2.7.6",
 		"react-dom": "^16.13.1",
